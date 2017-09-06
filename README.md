@@ -9,9 +9,9 @@ There are two easy ways you can install linux for use in this workshop
 ### Install [Linux subsystem on Windows](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
 
 1. Open Powershell as Administrator
-2. Run the following command *Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux*
+2. Run the following command `Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
 3. When prompted reboot your computer
-4. Open command line or powershell and run the command **bash**
+4. Open command line or powershell and run the command `bash`
 5. Once the program downloads bash will start
 6. You can now start **bash** from the start menu under the name *Bash on Ubuntu on Windows*
 
