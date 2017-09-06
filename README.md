@@ -19,12 +19,13 @@ There are two easy ways you can install linux for use in this workshop
 
 ### Install [VirtualBox][1] and run the included image
 
-[Google Drive folder with Ubuntu VM images](https://drive.google.com/drive/folders/0B-ED8IXwXPIGR19Ra3ZfT3BFbzA?usp=sharing)
+[Google Drive folder with Ubuntu VM images][2]
 
-1. Download the .7z archive from Google Drive (if you don't have 7zip you can also download the .zip archive)
+1. Download the .7z archive from [Google Drive][2] (if you don't have 7zip you can also download the .zip archive)
 2. Unpack the archive and run the [VirtualBox][1] install file (this may take a bit)
 3. Follow the onscreen instructions for installation
 4. Move the **Ubuntu_Proficiency_Course_student** folder to a temporary location
 5. Running the **Ubuntu_Proficiency_Course_student.vbox** file after installing VirtualBox should start the VM
 
 [1]:https://www.virtualbox.org/
+[2]:https://drive.google.com/drive/folders/0B-ED8IXwXPIGR19Ra3ZfT3BFbzA?usp=sharing
