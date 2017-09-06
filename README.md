@@ -26,6 +26,8 @@ There are two easy ways you can install linux for use in this workshop
 3. Follow the onscreen instructions for installation
 4. Move the **Ubuntu_Proficiency_Course_student** folder to a temporary location
 5. Running the **Ubuntu_Proficiency_Course_student.vbox** file after installing VirtualBox should start the VM
+6. Username and Password for the Ubuntu image are in the **Account.txt** file in the drive
+
 
 [1]:https://www.virtualbox.org/
 [2]:https://drive.google.com/drive/folders/0B-ED8IXwXPIGR19Ra3ZfT3BFbzA?usp=sharing
