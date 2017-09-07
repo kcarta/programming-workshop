@@ -31,3 +31,17 @@ There are two easy ways you can install linux for use in this workshop
 
 [1]:https://www.virtualbox.org/
 [2]:https://drive.google.com/drive/folders/0B-ED8IXwXPIGR19Ra3ZfT3BFbzA?usp=sharing
+
+## Learning terminal
+
+### [Terminus][3]
+
+[Terminus][3] is a text adventure game to learn about terminal command line interfaces
+
+### [VIM Adventures][4]
+
+[VIM Adventures][4] is a very simple game where you can learn the basics of [vim][5]
+
+[3]:http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
+[4]:https://vim-adventures.com/
+[5]:https://vim.sourceforge.io/
