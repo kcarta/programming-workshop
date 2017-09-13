@@ -22,7 +22,7 @@ Resources for the Autumn 2017 Programmer Skills Workshop at VIA UC
 
 [Git fix](https://sethrobertson.github.io/GitFixUm/fixup.html)
 
-[Pro Git](https://git-scm.com/book/en/v2) Free ebook about using git as a professional
+[Pro Git](https://git-scm.com/book/en/v2) Free e-book about using git as a professional
 
 ## Feedback form for students
 
