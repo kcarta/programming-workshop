@@ -26,4 +26,7 @@ Resources for the Autumn 2017 Programmer Skills Workshop at VIA UC
 
 ## Feedback form for students
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSevyJueRxxBJzAKQX53eehlQr1U7dh54pNriBGvemQT0U36_A/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Please fill out this form with feedback once asked to.
+This survey is completely anonymous and most of the questions are not mandatory so feel free to skip them if you don't know how to answer them.
+
+[Link is here!](https://goo.gl/forms/Ee0lsd3tRCDq1O8L2)
